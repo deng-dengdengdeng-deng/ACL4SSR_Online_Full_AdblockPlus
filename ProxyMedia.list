@@ -79,6 +79,12 @@ DOMAIN,gamer2-cds.cdn.hinet.net
 DOMAIN-SUFFIX,bahamut.com.tw
 DOMAIN-SUFFIX,gamer.com.tw
 
+# Crypto
+DOMAIN-SUFFIX,friend3.group
+DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,pancakeswap.finance
+DOMAIN-SUFFIX,infura.io
+
 # DAZN
 USER-AGENT,DAZN*
 DOMAIN-KEYWORD,voddazn
