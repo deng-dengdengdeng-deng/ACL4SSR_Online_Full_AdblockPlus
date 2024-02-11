@@ -2,6 +2,13 @@
 # 更新：2023-01-15 22:06:33
 # 数量：330条
 
+
+# My_Crypto
+DOMAIN-SUFFIX,friend3.group
+DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,pancakeswap.finance
+DOMAIN-SUFFIX,infura.io
+
 # ABC
 DOMAIN-SUFFIX,edgedatg.com
 DOMAIN-SUFFIX,go.com
@@ -78,12 +85,6 @@ DOMAIN,gamer-cds.cdn.hinet.net
 DOMAIN,gamer2-cds.cdn.hinet.net
 DOMAIN-SUFFIX,bahamut.com.tw
 DOMAIN-SUFFIX,gamer.com.tw
-
-# Crypto
-DOMAIN-SUFFIX,friend3.group
-DOMAIN-SUFFIX,tiktok.com
-DOMAIN-SUFFIX,pancakeswap.finance
-DOMAIN-SUFFIX,infura.io
 
 # DAZN
 USER-AGENT,DAZN*
