@@ -22,6 +22,7 @@ DOMAIN-KEYWORD,binance
 DOMAIN-KEYWORD,okx
 DOMAIN-SUFFIX,cloudflare.net
 DOMAIN-SUFFIX,cloudflare-dns.com
+DOMAIN-SUFFIX,appcenter.ms
 
 
 # CN域名直连(中国|公司|网络)
