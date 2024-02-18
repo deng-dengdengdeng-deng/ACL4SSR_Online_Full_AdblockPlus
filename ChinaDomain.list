@@ -18,9 +18,9 @@ DOMAIN-SUFFIX,qupu123.com
 DOMAIN-SUFFIX,pdfwifi.com
 DOMAIN-SUFFIX,zhenguanyu.biz
 DOMAIN-SUFFIX,zhenguanyu.com
-DOMAIN-keyword,binance.com
-DOMAIN-keyword,okx
-DOMAIN-keyword,cloudflare
+DOMAIN-KEYWORD,binance.com
+DOMAIN-KEYWORD,okx
+DOMAIN-KEYWORD,cloudflare
 
 
 # CN域名直连(中国|公司|网络)
